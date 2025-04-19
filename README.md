@@ -1,1 +1,1 @@
-# Taipei_house_price
+# Taipei_house_price這個城市是在預測台北房價並預測有無惡意抬價
